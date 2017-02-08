@@ -1,0 +1,7 @@
+npm install 
+npm install laravel-mix
+cp -r node_modules/laravel-mix/setup/**
+npm install gulp-sass
+npm install node-sass
+
+npm run dev 
